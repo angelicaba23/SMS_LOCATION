@@ -2,11 +2,11 @@
 
 <p align="center"><A mobile app that uses GPS to get the current phone location and send it to a phone number. It also has a floating button to refresh the home page.></p>
 
-## Links
+## ✅ Links
 
-- [Repo](https://github.com/angelicaba23/<project-name> "<SMS_LOCATION> Repo")
+- [Repo](https://github.com/angelicaba23/<SMS_LOCATION> "<SMS_LOCATION> Repo")
 
-## Screenshots
+## 📱Screenshots
 
 ![Home Page](/screenshots/1.png "Home Page")
 

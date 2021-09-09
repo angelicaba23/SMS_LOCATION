@@ -29,7 +29,7 @@ In the project directory, you can run:
 
 **Angelica Barranco**
 
-- [Profile](https://github.com/rohit19060 "Angélica Barranco")
+- [Profile](https://github.com/angelicaba23/ "Angélica Barranco")
 - [Email](mailto:angelicaba9923@gmail.com?subject=Hi "Hi!")
 - [Linkedin](https://www.linkedin.com/in/angelicaba23/ "Welcome")
 

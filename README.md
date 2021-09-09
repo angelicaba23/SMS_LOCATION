@@ -14,7 +14,7 @@
 
 In the project directory, you can run:
 
-### `flutter run <DART_FILE>`,
+### `flutter run <DART_FILE>`
 
 ## 💻 Built With
 

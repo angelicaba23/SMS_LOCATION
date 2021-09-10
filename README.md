@@ -10,6 +10,8 @@
 
 ![Home Page](/screenshots/1.png "Home Page")
 ![Second Page](/screenshots/2.png "Sent Page")
+ <img src="/screenshots/2.png "  height="100" title="Github Logo">
+
 
 ## ⚡ Available Commands
 

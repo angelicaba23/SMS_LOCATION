@@ -11,7 +11,7 @@
 ![Home Page](/screenshots/1.png "Home Page")
 ![Second Page](/screenshots/2.png "Sent Page")
 
-## Available Commands
+## ⚡ Available Commands
 
 In the project directory, you can run:
 

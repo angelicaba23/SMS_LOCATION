@@ -9,6 +9,7 @@
 ## 📱Screenshots
 
 ![Home Page](/screenshots/1.png "Home Page")
+![Second Page](/screenshots/2.png "Sent Page")
 
 ## Available Commands
 

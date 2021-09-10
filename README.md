@@ -1,6 +1,5 @@
-<h1 align="center"><SMS LOCATION></h1>
-
-<p align="center"><A mobile app that uses GPS to get the current phone location and send it to a phone number. It also has a floating button to refresh the home page.></p>
+# SMS LOCATION
+### A mobile app that uses GPS to get the current phone location and send it to a phone number. It also has a floating button to refresh the home page.
 
 ## ✅ Links
 
@@ -22,8 +21,8 @@ In the project directory, you can run:
 - Dart
 
 ## 🔜 Future Updates
-- Automatic location send every X period of time.
-- Send the location to an IP and create a web page to check the location.
+> Automatic location send every X period of time.
+> Send the location to an IP and create a web page to check the location.
   
 
 ## 👩‍💻 Author

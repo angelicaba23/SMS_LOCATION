@@ -3,7 +3,7 @@
 
 ## ✅ Links
 
-- [Repo](https://github.com/angelicaba23/<SMS_LOCATION> "<SMS_LOCATION> Repo")
+- [Repo](https://github.com/angelicaba23/SMS_LOCATION "SMS LOCATION Repo")
 
 ## 📱Screenshots
 <img src="/screenshots/1.png " height="400" title="Home Page"> <img src="/screenshots/2.png " height="400" title="Second Page">

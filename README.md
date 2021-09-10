@@ -28,11 +28,13 @@ In the project directory, you can run:
 
 ## 👩‍💻 Author
 
-**Angelica Barranco**
+**Angélica Barranco Aragón**
 
 - [Profile](https://github.com/angelicaba23/ "Angélica Barranco")
 - [Email](mailto:angelicaba9923@gmail.com?subject=Hi "Hi!")
 - [Linkedin](https://www.linkedin.com/in/angelicaba23/ "Welcome")
+  
+Feel free to get in touch!
 
 ## 🤝 Support
 

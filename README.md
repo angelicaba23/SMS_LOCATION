@@ -1,5 +1,5 @@
 # SMS LOCATION
-### A mobile app that uses GPS to get the current phone location and send it to a phone number. It also has a floating button to refresh the home page.
+ A mobile app that uses GPS to get the current phone location and send it to a phone number. It also has a floating button to refresh the home page.
 
 ## ✅ Links
 
